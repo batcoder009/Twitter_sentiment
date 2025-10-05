@@ -17,12 +17,19 @@ Provides insights into public mood and trends
 🛠️ Technologies Used
 
 Python – Core programming language
+
 Pandas, NumPy – Data preprocessing and handling
+
 Scikit-learn – Model training, TF-IDF vectorization, and evaluation
+
 Regex (re) – Text cleaning and preprocessing
+
 Joblib – Model serialization and loading
+
 Streamlit – Web application and UI development
+
 Git & GitHub – Version control and code hosting
+
 VS Code – Development environment
 
 🧠 Dataset Information
